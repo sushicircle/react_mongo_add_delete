@@ -1,5 +1,7 @@
-# react test app
-MERN (mathlab)
+# react app
+MERN (matlab)
+
+used for testing
 
 ### How to start
 1. npm install
